@@ -10,7 +10,7 @@ Please check out my [**Linkedin**](www.linkedin.com/in/carmen-emanuela-dwiva-lis
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdzcmQ5dGdtMDZxanQwc3ZrYjMxam8ydTMxYmJmNXFiOHR2bGx0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eUkvb19qYpDkk/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdzcmQ5dGdtMDZxanQwc3ZrYjMxam8ydTMxYmJmNXFiOHR2bGx0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eUkvb19qYpDkk/giphy.gif" width="300" />
   <br>
   <em>Thank you for visiting💌</em>
 </p>
